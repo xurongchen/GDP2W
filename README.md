@@ -6,7 +6,7 @@ GDP2W 是毕业设计材料PDF转Word（ Graduation Design materials Pdf2Word �
 
 项目文件夹包括原有PDF和转换后的Word两部分，转换工作是在Word2016版中进行的。
 
-## docx格式快捷下载：
+## docx格式快捷下载（不熟悉git的可以直接点击下载）：
 
 #### 开题相关
 
